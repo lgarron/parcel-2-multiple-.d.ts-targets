@@ -1,0 +1,12 @@
+{
+  "name": "types-target-test",
+  "types": "dist/main/index.d.ts",
+  "extended-types": "dist/extended/index.d.ts",
+  "targets": {
+    "types": {},
+    "extended-types": {}
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-nightly.364"
+  }
+}
